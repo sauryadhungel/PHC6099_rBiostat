@@ -21,7 +21,7 @@ The chapters are:
     - Chi-Square Goodness of Fit
     - Permutation Tests
 3. Two-Sample Tests  
-    - $t$-test
+    - $t$-test: Saurya
     - Welch's $t$-test
     - Mann-Whitney $U$ test
     - Cochran's $Q$ test
